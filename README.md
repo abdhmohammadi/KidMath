@@ -34,6 +34,16 @@ KidMath is an engaging educational game designed to help elementary school stude
   <p><em>Gameplay in Action</em></p>
 </td>
 </tr>
+  <tr>
+<td width="50%" align="center">
+  <img src="assets/Screenshot 2025-03-17 221914.png" alt="Game Interface" width="400">
+  <p><em>Main Game Interface</em></p>
+</td>
+<td width="50%" align="center">
+  <img src="assets/Screenshot 2025-03-17 222200.png" alt="Gameplay" width="400">
+  <p><em>Gameplay in Action</em></p>
+</td>
+</tr>
 </table>
 
 ### Features
