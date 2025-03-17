@@ -17,6 +17,8 @@ AmirMohammad Mohammadi is a 7th-grade student at Ithar High School in Bojnurd, I
 ## Project Description
 KidMath is an engaging educational game designed to help elementary school students learn and practice basic arithmetic operations. The game focuses on addition and subtraction of two-digit numbers, making it perfect for first-grade students.
 
+Image data for game levels(assets) will be uploaded later.
+
 ## Screenshots
 <table>
 <tr>
