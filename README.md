@@ -13,7 +13,7 @@ AmirMohammad Mohammadi, my son, is a 7th-grade student. This project was develop
 - Shad Platform: [AmirMMohammadi1391](@AmirMMohammadi1391)
 - Parent Contact: abdhmohammdy@gmail.com, https://t.me/abdhmohammadi
 </td>
-<td width="25%" align="right">
+<td width="20%" align="right">
   <img src="assets/developer.jpg" alt="AmirMohammad Mohammadi" width="200">
 </td>
 </tr>
