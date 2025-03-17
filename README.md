@@ -1,11 +1,18 @@
 # KidMath - Educational Math Game for Kids
 
-<div align="right">
-  <img src="assets/developer.jpg" alt="AmirMohammad Mohammadi" width="200" style="float: right; margin-left: 20px;">
-</div>
+<table>
+<tr>
+<td width="70%">
 
 ## About the Developer
 AmirMohammad Mohammadi is a 7th-grade student at Ithar High School in Bojnurd, Iran. This project was developed for the 11th Khwarizmi Youth Festival, showcasing his passion for programming and educational technology.
+
+</td>
+<td width="30%" align="right">
+  <img src="assets/developer.jpg" alt="AmirMohammad Mohammadi" width="200">
+</td>
+</tr>
+</table>
 
 ## Project Description
 KidMath is an engaging educational game designed to help elementary school students learn and practice basic arithmetic operations. The game focuses on addition and subtraction of two-digit numbers, making it perfect for first-grade students.
