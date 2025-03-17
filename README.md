@@ -1,6 +1,8 @@
 # KidMath - Educational Math Game for Kids
 
-![AmirMohammad Mohammadi](assets/developer.jpg)
+<div align="right">
+  <img src="assets/developer.jpg" alt="AmirMohammad Mohammadi" width="200" style="float: right; margin-left: 20px;">
+</div>
 
 ## About the Developer
 AmirMohammad Mohammadi is a 7th-grade student at Ithar High School in Bojnurd, Iran. This project was developed for the 11th Khwarizmi Youth Festival, showcasing his passion for programming and educational technology.
