@@ -9,6 +9,9 @@ AmirMohammad Mohammadi, my son, is a 7th-grade student. This project was develop
 
 
 03/17/2025
+
+- Shad Platform: [AmirMMohammadi1391](https://shad.ir/AmirMMohammadi1391)
+- Parent Contact: abdhmohammdy@gmail.com, https://t.me/abdhmohammadi
 </td>
 <td width="30%" align="right">
   <img src="assets/developer.jpg" alt="AmirMohammad Mohammadi" width="200">
