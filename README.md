@@ -81,7 +81,7 @@ KidMath/
 
 ## Contact
 - Shad Platform: [AmirMMohammadi1391](https://shad.ir/AmirMMohammadi1391)
-- Parent Contact: 09372561238
+- Parent Contact: abdhmohammdy@gmail.com, https://t.me/abdhmohammadi
 
 ## License
 This project is developed for educational purposes and is free to use. 
