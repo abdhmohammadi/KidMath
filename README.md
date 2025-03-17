@@ -12,10 +12,10 @@ KidMath is an engaging educational game designed to help elementary school stude
 
 ## Screenshots
 <div align="center">
-  <img src="assets/screenshot1.png" alt="Game Interface" width="600">
+  <img src="assets/Screenshot 2025-03-17 214951.png" alt="Game Interface" width="600">
   <p><em>Main Game Interface</em></p>
   
-  <img src="assets/screenshot2.png" alt="Gameplay" width="600">
+  <img src="assets/Screenshot 2025-03-17 215020.png" alt="Gameplay" width="600">
   <p><em>Gameplay in Action</em></p>
 </div>
 
